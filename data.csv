@@ -1,0 +1,8 @@
+Device,Watts,Hours Used per Day,Days Used
+Fridge,150,24,30
+Laptop,65,5,30
+TV,100,4,30
+Air Conditioner,1000,8,15
+Microwave,1200,0.5,20
+Washer,500,1,10
+Light Bulb,10,5,30
